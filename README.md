@@ -10,3 +10,5 @@ Try to work efficiently and concentratedly.
 
 Materials science
 
+learn git
+
